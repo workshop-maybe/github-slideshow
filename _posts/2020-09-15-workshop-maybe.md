@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to another slide by Workshop Maybe!"
+title: "Remote Learning with Workshop Maybe!"
 ---
-Your Text
+I just can't wait to learn more.
 Use the left arrow to go back!
